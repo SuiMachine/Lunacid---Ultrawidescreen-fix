@@ -1,3 +1,5 @@
+* Following licence does not extend to BepInEx libraries.
+
 MIT License
 
 Copyright (c) 2022 SuiMachine
