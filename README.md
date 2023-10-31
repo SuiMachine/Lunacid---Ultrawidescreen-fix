@@ -1,4 +1,7 @@
 # Lunacid---Ultrawidescreen-fix
+IMPORTANT - thanks to the game's developer work, this patch is now obsolete and is now archived. Thank you Kira for your work.
+
+Old description:
 A basic fix that prevents from HUD being stretched outside the screen countries to be used as temporary solution to a problem as we wait for the game developer to hopefully fix it.
 
 ![preview.jpg](/Screens/preview.jpg)
